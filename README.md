@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.200826.002 V12.5.5.0.RJWINXM release-keys
+- manufacturer: xiaomi
+- platform: atoll
+- codename: curtana
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200826.002
+- incremental: V12.5.5.0.RJWINXM
+- tags: release-keys
+- fingerprint: Redmi/curtana/curtana:11/RKQ1.200826.002/V12.5.5.0.RJWINXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: qssi-user-11-RKQ1.200826.002-V12.5.5.0.RJWINXM-release-keys
+- repo: redmi_curtana_dump
