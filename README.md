@@ -1,0 +1,14 @@
+# qssi-userdebug 10 QKQ1.191215.002 504 test-keys
+- manufacturer: redmi
+- platform: atoll
+- codename: curtana
+- flavor: qssi-userdebug
+- release: 10
+- id: QKQ1.191215.002
+- incremental: 504
+- tags: test-keys
+- fingerprint: Redmi/curtana/curtana:10/QKQ1.191215.002/504:userdebug/test-keys
+- is_ab: false
+- brand: Redmi
+- branch: qssi-userdebug-10-QKQ1.191215.002-504-test-keys
+- repo: redmi_curtana_dump
