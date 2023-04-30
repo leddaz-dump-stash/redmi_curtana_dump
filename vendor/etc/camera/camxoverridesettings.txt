@@ -1,0 +1,6 @@
+multiCameraEnable=TRUE
+disableFocusIndication=1
+tintlessEnable=TRUE
+ifeClockFrequencyMHz=0xFFFFFFFF
+ifeExternalBandwidthMBytes=0xFFFFFFFF
+ifeCamnocBandwidthMBytes=0xFFFFFFFF
