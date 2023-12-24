@@ -1,0 +1,10 @@
+modem.img.xz
+boot.img.xz
+system/system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk.xz
+system/system/priv-app/MiuiCamera/MiuiCamera.apk.xz
+system_ext/apex/com.android.vndk.v30.apex.xz
+system_ext/priv-app/Settings/Settings.apk.xz
+product/app/Messages/Messages.apk.xz
+product/app/WebViewGoogle/WebViewGoogle.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
